@@ -1,0 +1,2 @@
+# Blog
+Ted's Blog!
